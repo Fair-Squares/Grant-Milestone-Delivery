@@ -21,3 +21,7 @@ We have delivered the bidding, share-distributor pallet, virtual accounts and im
 | 2.  | share-distributor-pallet |[Link](https://github.com/Fair-Squares/fair-squares/tree/main/pallets/share_distributor)| **tag**: v0.0.7-m3 </br> **commit**:tbd|
 | 3.  | fs-node M3 |[Link](https://github.com/Fair-Squares/fair-squares)| **tag**: v0.0.7-m3 </br> **commit**:tbd|
 
+**Additional Information**
+1.  We have not implemented point 2. of the bidding pallet --> "If a share of the contribution is taken out the user will drop in the ranking (points ranking)." We kept the bidding pallet algorithm simple. The bidding pallet does what it is supposed to do, this rule is not necessary for the bidding pallet to work and would add a lot of complexity while we are not sure if such a feature would be used. We will implement this or something similar in the future if we see a need for it. We think the bidding pallet selection of allocations could be further optimized and that is where would like to focus our efforts in the future.
+2. We have a new [contributor](https://github.com/cuteolaf) to the repo, he will join from M4 on. His past contributions have no impact on the deliverables of M3. We are not planning to change the grant proposal with an updated team, but if needed we can do so.
+
