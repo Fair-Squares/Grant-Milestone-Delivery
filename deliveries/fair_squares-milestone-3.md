@@ -13,7 +13,7 @@ We have delivered the bidding, share-distributor pallet, virtual accounts and im
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
 | 0a. | License: Apache 2.0 |[Link](https://github.com/Fair-Squares/fair-squares/blob/main/LICENSE)| | 
-| 0b.  | Documentation & tutorial |[Link](https://docs.google.com/document/d/1FxOSXGR49MX-UsGgBW24Rz0W1cfvwhfhIIrnPKiNhHc/edit?usp=sharing)| The inline documentation is the lib.rs files of [bidding-pallet](https://github.com/Fair-Squares/fair-squares/tree/main/pallets/bidding) and the [share-distributor-pallet](https://github.com/Fair-Squares/fair-squares/tree/main/pallets/share_distributor). The basic tutorial is in the G-doc it will be published once the milestone is approved| 
+| 0b.  | Documentation & Guide |[Link](https://docs.google.com/document/d/1FxOSXGR49MX-UsGgBW24Rz0W1cfvwhfhIIrnPKiNhHc/edit?usp=sharing)| The inline documentation is the lib.rs files of [bidding-pallet](https://github.com/Fair-Squares/fair-squares/tree/main/pallets/bidding) and the [share-distributor-pallet](https://github.com/Fair-Squares/fair-squares/tree/main/pallets/share_distributor). The basic tutorial is in the G-doc it will be published once the milestone is approved| 
 | 0c. | Testing Guide |[Link](https://github.com/Fair-Squares/fair-squares#run-all-tests) || 
 | 0d. | Dockerfile |[Link](https://github.com/Fair-Squares/fair-squares/blob/main/Dockerfile) | | 
 | 0e.  | Article |[Link](https://docs.google.com/document/d/1y17QmO7sGR5FJEjtH9NJx5RowqBOtzgoKzcGyfPSVn4/edit?usp=sharing)| The article will be published once the milestone is approved. | 
